@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imnitin99" target="blank"><img src="https://img.shields.io/twitter/follow/imnitin99?logo=twitter&style=for-the-badge" alt="imnitin99" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce React Web App**
+- 🔭 I’m currently working on **React Web App**
 
 - 🌱 I’m currently learning **MERN STACK**
 
