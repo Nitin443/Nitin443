@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React Web App**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK & DSA**
 
 - 👯 I’m looking to collaborate on **My Startup Idea**
 
