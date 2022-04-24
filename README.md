@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
+<h3 align="center">INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin443&label=Profile%20views&color=0e75b6&style=flat" alt="nitin443" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin443" alt="nitin443" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imnitin99" target="blank"><img src="https://img.shields.io/twitter/follow/imnitin99?logo=twitter&style=for-the-badge" alt="imnitin99" /></a> </p>
+- 🔭 I’m currently working on **Intern Project**
 
-- 🔭 I’m currently working on **React Web App**
-
-- 🌱 I’m currently learning **MERN STACK & DSA**
+- 🌱 I’m currently learning **DSA and Web Devlopment**
 
 - 👯 I’m looking to collaborate on **My Startup Idea**
 
 - 📫 How to reach me **imnitin55@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AIumWsXxVi2M577oP9czS9eyel1k0hfk/view?usp=sharing](https://drive.google.com/file/d/1AIumWsXxVi2M577oP9czS9eyel1k0hfk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +22,7 @@
 <a href="https://codesandbox.com/nitin443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nitin443" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imnitin55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imnitin55" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imnitin55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imnitin55" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/imnitin55/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/imnitin55/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
