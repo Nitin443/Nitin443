@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **DSA and Web Devlopment**
 
-- 👯 I’m looking to collaborate on **My Startup Idea**
 
 - 📫 How to reach me **imnitin55@gmail.com**
 
