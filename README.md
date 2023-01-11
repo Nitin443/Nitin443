@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin443" alt="nitin443" /></a> </p>
 
-- 🔭 I’m currently working on **Intern Project**
+- 🔭 I’m currently working as a **Full Stack Developer**
 
-- 🌱 I’m currently learning **DSA and Web Devlopment**
+- 🌱 I’m currently learning **DSA and Blockchain Technology**
 
 
 - 📫 How to reach me **imnitin55@gmail.com**
